@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pyo
+*.DS_Store
+.env
+.venv/
+venv/
+dist/
+build/
+*.docx
+.tmp_test*/
+.clawhub/
+_meta.json
